@@ -3,7 +3,7 @@
 
 Master's student in Health Data Science (BA in Psychology, minors in Computer
 Science and Health Studies). I use data to study health behavior and outcomes,
-and I'm interested in hospital outcomes, policy and social health disparities.
+and I'm interested in hospital outcomes, data privacy and social health disparities.
 
 **Skills:** R · Python · SQL · C · Java · Git · R Markdown / Quarto · Orange Data Mining 
 
