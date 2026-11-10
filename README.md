@@ -1,5 +1,5 @@
 
-# Hi, I'm [Your Name] 👋
+# Hi, my name is Georgette 👋
 
 Master's student in Health Data Science (BA in Psychology, minors in Computer
 Science and Health Studies). I use data to study health behavior and outcomes,
