@@ -6,6 +6,7 @@ Science and Health Studies). I use data to study health behavior and outcomes,
 and I'm interested in hospital outcomes, policy and social health disparities.
 
 **Skills:** R · Python · SQL · C · Java · Git · R Markdown / Quarto · Orange Data Mining 
+
 **Contact:** [LinkedIn](https://www.linkedin.com/in/georgettegreborio/) · georgette.greborio@outlook.com
 
 ### ED Triage and ICU Admission Analysis
