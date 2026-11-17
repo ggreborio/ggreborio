@@ -1,0 +1,51 @@
+date,day_of_week,week,low_demand_day,off_task,demand_refusal,elopement,unsafe_physical,points_possible,points_earned,g10_opps,g10_correct,g11_opps,g11_correct,g12_opps,g12_correct,narrative_note
+2025-09-02,Tuesday,1,No,10,6,1,1,20,8,4,1,8,2,5,2,Typical day. Off-task behavior was frequent; responded to some choice board options.
+2025-09-03,Wednesday,1,No,17,5,3,2,20,9,6,2,8,4,7,2,Participated briefly with the group before requesting a break.
+2025-09-04,Thursday,1,No,16,5,2,2,20,11,6,2,4,1,8,2,Typical day. Off-task behavior was frequent; responded to some choice board options.
+2025-09-05,Friday,1,No,15,8,3,1,20,7,5,3,8,3,8,3,Verbal refusal during math. Chose a movement break after the second prompt.
+2025-09-08,Monday,1,Yes,7,4,1,0,20,13,7,3,8,5,7,3,Low demand day. Mostly engaged in preferred activities; accepted breaks with few prompts.
+2025-09-09,Tuesday,2,No,14,4,5,2,20,9,3,0,7,3,5,2,Left assigned area multiple times during transitions. Staff redirected back each time.
+2025-09-10,Wednesday,2,No,10,8,1,3,20,9,4,3,5,2,8,3,Unsafe physical behavior during a transition. Staff blocked and redirected safely.
+2025-09-11,Thursday,2,No,18,9,5,1,20,10,4,0,6,2,6,2,Eloped during independent work; brought back with visual support and two prompts.
+2025-09-12,Friday,2,Yes,4,4,3,1,20,13,3,1,8,2,6,5,Low demand day. Mostly engaged in preferred activities; accepted breaks with few prompts.
+2025-09-15,Monday,2,No,20,6,3,1,20,5,4,0,4,1,7,4,Participated briefly with the group before requesting a break.
+2025-09-16,Tuesday,3,No,12,6,3,1,20,11,4,1,8,1,7,5,Typical day. Off-task behavior was frequent; responded to some choice board options.
+2025-09-17,Wednesday,3,No,9,2,2,2,20,10,6,4,8,3,8,4,Typical day. Off-task behavior was frequent; responded to some choice board options.
+2025-09-18,Thursday,3,No,13,5,4,0,20,10,4,1,7,4,6,4,Left assigned area multiple times during transitions. Staff redirected back each time.
+2025-09-19,Friday,3,No,15,6,5,2,20,5,7,2,5,0,7,5,Left assigned area multiple times during transitions. Staff redirected back each time.
+2025-09-22,Monday,3,No,18,5,7,1,20,6,6,2,6,2,7,4,Left assigned area multiple times during transitions. Staff redirected back each time.
+2025-09-23,Tuesday,4,No,12,9,5,0,20,9,7,2,4,3,5,3,Left assigned area multiple times during transitions. Staff redirected back each time.
+2025-09-24,Wednesday,4,No,14,8,3,1,20,4,3,2,8,4,5,4,Refused most non-preferred tasks. First/then board helped on a few attempts.
+2025-09-25,Thursday,4,Yes,5,1,0,1,20,9,7,3,5,0,7,5,Low demand day. Mostly engaged in preferred activities; accepted breaks with few prompts.
+2025-09-26,Friday,4,No,18,7,7,1,20,7,6,4,4,1,4,1,Left assigned area multiple times during transitions. Staff redirected back each time.
+2025-09-29,Monday,4,No,13,13,4,2,20,9,7,2,7,3,5,4,Eloped during independent work; brought back with visual support and two prompts.
+2025-09-30,Tuesday,5,No,18,5,1,3,20,11,4,2,7,2,7,7,Unsafe physical behavior during a transition. Staff blocked and redirected safely.
+2025-10-01,Wednesday,5,No,9,10,2,3,20,7,7,2,7,5,8,5,Threw materials after a work request. Area cleared; student moved to calm corner.
+2025-10-02,Thursday,5,No,14,9,4,3,20,7,5,1,4,1,6,2,Left assigned area multiple times during transitions. Staff redirected back each time.
+2025-10-03,Friday,5,No,19,5,3,1,20,9,3,0,7,3,5,2,Participated briefly with the group before requesting a break.
+2025-10-06,Monday,5,No,18,9,2,1,20,8,5,4,7,2,6,5,Verbal refusal during math. Chose a movement break after the second prompt.
+2025-10-07,Tuesday,6,Yes,5,4,2,0,20,14,3,1,7,4,7,5,Modified schedule today. Needed one prompt to use choice board; returned to group.
+2025-10-08,Wednesday,6,No,12,10,3,1,20,9,7,4,8,4,6,5,Verbal refusal during math. Chose a movement break after the second prompt.
+2025-10-09,Thursday,6,Yes,3,2,0,0,20,10,4,3,5,3,4,4,Modified schedule today. Needed one prompt to use choice board; returned to group.
+2025-10-10,Friday,6,Yes,4,3,1,2,20,13,4,3,5,2,6,2,Modified schedule today. Needed one prompt to use choice board; returned to group.
+2025-10-13,Monday,6,No,24,9,3,3,20,6,5,2,8,3,6,5,Threw materials after a work request. Area cleared; student moved to calm corner.
+2025-10-14,Tuesday,7,No,16,5,4,0,20,7,5,2,6,3,7,5,Left assigned area multiple times during transitions. Staff redirected back each time.
+2025-10-15,Wednesday,7,No,12,6,1,1,20,7,3,1,6,2,8,5,Typical day. Off-task behavior was frequent; responded to some choice board options.
+2025-10-16,Thursday,7,No,19,1,6,2,20,6,7,2,5,2,8,4,Left assigned area multiple times during transitions. Staff redirected back each time.
+2025-10-17,Friday,7,No,14,10,1,0,20,6,7,2,7,3,7,2,Verbal refusal during math. Chose a movement break after the second prompt.
+2025-10-20,Monday,7,No,12,7,1,2,20,9,6,5,7,1,5,1,Participated briefly with the group before requesting a break.
+2025-10-21,Tuesday,8,Yes,2,1,0,2,20,14,6,4,4,4,6,6,Modified schedule today. Needed one prompt to use choice board; returned to group.
+2025-10-22,Wednesday,8,Yes,3,3,1,1,20,9,5,2,6,3,4,4,Low demand day. Mostly engaged in preferred activities; accepted breaks with few prompts.
+2025-10-23,Thursday,8,No,14,5,4,0,20,6,5,1,8,4,8,4,Left assigned area multiple times during transitions. Staff redirected back each time.
+2025-10-24,Friday,8,No,15,8,3,2,20,5,5,2,5,3,8,6,Refused most non-preferred tasks. First/then board helped on a few attempts.
+2025-10-27,Monday,8,No,17,8,5,1,20,9,3,1,5,0,8,3,Eloped during independent work; brought back with visual support and two prompts.
+2025-10-28,Tuesday,9,No,17,5,1,1,20,11,3,1,8,3,5,3,Typical day. Off-task behavior was frequent; responded to some choice board options.
+2025-10-29,Wednesday,9,No,10,5,2,2,20,7,4,0,4,1,5,4,Typical day. Off-task behavior was frequent; responded to some choice board options.
+2025-10-30,Thursday,9,No,15,8,4,2,20,6,5,1,5,3,8,4,Eloped during independent work; brought back with visual support and two prompts.
+2025-10-31,Friday,9,No,22,12,6,4,20,6,3,3,6,4,6,5,Eloped during independent work; brought back with visual support and two prompts.
+2025-11-03,Monday,9,No,14,5,3,1,20,8,3,1,7,2,7,5,Participated briefly with the group before requesting a break.
+2025-11-04,Tuesday,10,No,18,5,1,2,20,8,7,4,4,2,6,4,Typical day. Off-task behavior was frequent; responded to some choice board options.
+2025-11-05,Wednesday,10,No,16,5,2,0,20,7,4,2,6,1,6,4,Typical day. Off-task behavior was frequent; responded to some choice board options.
+2025-11-06,Thursday,10,No,9,9,1,3,20,4,5,2,4,1,7,4,Threw materials after a work request. Area cleared; student moved to calm corner.
+2025-11-07,Friday,10,No,15,6,3,2,20,8,5,3,7,2,8,5,Typical day. Off-task behavior was frequent; responded to some choice board options.
+2025-11-10,Monday,10,Yes,4,3,0,2,20,9,6,5,7,6,5,2,Modified schedule today. Needed one prompt to use choice board; returned to group.
