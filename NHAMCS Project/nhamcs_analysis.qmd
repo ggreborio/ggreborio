@@ -1,11 +1,7 @@
 ---
 title: "ED Triage Level and ICU Admission: NHAMCS 2022"
 author: "Georgette Greborio"
-format:
-  html:
-    code-fold: true
-    toc: true
-    embed-resources: true
+format: pdf
 execute:
   warning: false
 ---
